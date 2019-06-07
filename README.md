@@ -66,3 +66,13 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## React
+
+### Three tenets of Components
+
+> 1,2,3
+
+### Props
+
+> Pass information from parent to child, though it is possile the other around
